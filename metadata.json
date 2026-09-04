@@ -1,0 +1,6 @@
+{
+  "name": "Text to Speech Generator",
+  "description": "Convert text to lifelike spoken audio with natural voices, audio controls, and downloadable audio files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
